@@ -22,3 +22,5 @@
 |소프트웨어세미나1|1|
 |소프트웨어세미나3|1|
 
+github address:[chaenychoco][github]
+[https://github.com/chaenychoco]
